@@ -104,22 +104,22 @@ github-ai-toolkit/
 ## Screenshots
 
 ### PR Reviewer
-![PR Reviewer](docs/screenshots/pr-reviewer.svg)
+![PR Reviewer](docs/screenshots/pr-reviewer.png)
 
 ### Issue Analyzer
-![Issue Analyzer](docs/screenshots/issue-analyzer.svg)
+![Issue Analyzer](docs/screenshots/issue-analyzer.png)
 
 ### Code Assistant
-![Code Assistant](docs/screenshots/code-assistant.svg)
+![Code Assistant](docs/screenshots/code-assistant.png)
 
 ### Doc Generator
-![Doc Generator](docs/screenshots/doc-generator.svg)
+![Doc Generator](docs/screenshots/doc-generator.png)
 
 ### Security Scanner
-![Security Scanner](docs/screenshots/security-scanner.svg)
+![Security Scanner](docs/screenshots/security-scanner.png)
 
 ### Test Generator
-![Test Generator](docs/screenshots/test-generator.svg)
+![Test Generator](docs/screenshots/test-generator.png)
 
 ## API Documentation
 
