@@ -101,6 +101,26 @@ github-ai-toolkit/
 - **Integration**: GitHub API
 - **Testing**: pytest
 
+## Screenshots
+
+### PR Reviewer
+![PR Reviewer](docs/screenshots/pr-reviewer.svg)
+
+### Issue Analyzer
+![Issue Analyzer](docs/screenshots/issue-analyzer.svg)
+
+### Code Assistant
+![Code Assistant](docs/screenshots/code-assistant.svg)
+
+### Doc Generator
+![Doc Generator](docs/screenshots/doc-generator.svg)
+
+### Security Scanner
+![Security Scanner](docs/screenshots/security-scanner.svg)
+
+### Test Generator
+![Test Generator](docs/screenshots/test-generator.svg)
+
 ## API Documentation
 
 Once the backend is running, visit `http://localhost:8000/docs` for interactive API documentation.
